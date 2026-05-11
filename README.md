@@ -19,8 +19,8 @@ O projeto foi criado como parte dos meus estudos em **Ánalise e Desenvolvimento
 - Linguagem:**
 - Java
 - IDE:** Visual Studio Code
-- 
-_** Ferramentas:** 
+
+Ferramentas:** 
 java SDK (JDK), Entension Pack for Java.
 
 ##📝Como executar
