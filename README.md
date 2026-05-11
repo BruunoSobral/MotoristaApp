@@ -7,6 +7,7 @@ Este é um software desenvolvido em **Java** para auxiliar motoristas de aplicat
 
 O projeto foi criado como parte dos meus estudos em **Ánalise e Desenvolvimento de Sistemas**, aplicando conceitos de lógica de programação, manipulação de tipos primitivos, estruturas de controle e internacionalização (Locale).
 
+
 ##🚀Funcionalidades
 
 - Cálculo de Custo Fixo Diário:** Roteio automático de custos mensais (Aluguel + internet).
@@ -14,17 +15,21 @@ O projeto foi criado como parte dos meus estudos em **Ánalise e Desenvolvimento
 - Internacionalização:** Configurado para aceitar entrada de dados com ponto decimal (padrão americano), evitando erros de sistema.
 - Resumo financeiro:** Exibição de lucro líquido e verificação automática de batimento de meta.
 
+
 ##🛠️Tecnologias Utilizadas
 
 - Linguagem:**
 - Java
 - IDE:** Visual Studio Code
 
-Ferramentas:** 
+
+## Ferramentas:
 
 java SDK (JDK), Entension Pack for Java.
 
+
 ##📝Como executar
+
 1. Certifique-se de ter o [JDK](https://www.oracle.com/java/technologies/downloads/) instalado em sua máquina.
 2. Clone o repositório ou baixe o arquivo `App.Java`.
 3. Abra o terminal na pasta do arquivo e compile:
@@ -38,6 +43,7 @@ java App
 ```
 
 ##🧠Conceitos Aplicados
+
 - Scanner & Locale: Uso da classe Scanner com Localidade US oara garantir a compatibilidade de entrada.
 - Constantes (final): Utilização de cosntantes para valores fixos que não mudam durante a execução.
 - Lógica de Negócio: Aplicação de fórmulas matemáticas pela extração de margem de lucro real.
