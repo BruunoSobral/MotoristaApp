@@ -18,8 +18,7 @@ O projeto foi criado como parte dos meus estudos em **Ánalise e Desenvolvimento
 
 ##🛠️Tecnologias Utilizadas
 
-- Linguagem:**
-- Java
+- Linguagem:** Java
 - IDE:** Visual Studio Code
 
 
